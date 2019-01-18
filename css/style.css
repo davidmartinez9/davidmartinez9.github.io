@@ -1,0 +1,42 @@
+
+h1 {
+	color: #696969;
+	text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+html {
+	background: linear-gradient(to bottom, white, #00FF7F);
+
+
+}
+
+p {
+	color: #696969;
+}
+
+li {
+	color: #696969;
+} 
+
+img {
+	border: 8px grey dotted;
+}
+
+h2 {
+	color: #696969;
+  	font-family: verdana;
+  	font-size: 300%;
+}
+
+
+body {
+	 font-family: verdana;
+  font-size: 100%;
+}
