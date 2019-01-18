@@ -1,6 +1,18 @@
+@import url('https://fonts.googleapis.com/css?family=Coiny');
+
+
+html {
+	background: linear-gradient(to bottom, white, #00FF7F);
+}
+
+
+body {
+	color: #696969;
+	font-family: 'Coiny', cursive;
+	font-size: 23px;
+}
 
 h1 {
-	color: #696969;
 	text-align: center;
 }
 
@@ -11,32 +23,16 @@ h1 {
 
 }
 
-html {
-	background: linear-gradient(to bottom, white, #00FF7F);
 
 
+h2 {
+	
+  	font-size: 32px;
 }
-
-p {
-	color: #696969;
-}
-
-li {
-	color: #696969;
-} 
-
+	
 img {
 	border: 8px grey dotted;
 }
 
-h2 {
-	color: #696969;
-  	font-family: verdana;
-  	font-size: 300%;
-}
 
 
-body {
-	 font-family: verdana;
-  font-size: 100%;
-}
