@@ -28,11 +28,24 @@ h1 {
 h2 {
 	
   	font-size: 32px;
+  	margin:0;
 }
 	
 img {
-	border: 8px grey dotted;
+	border: 11px grey dashed;
 }
 
+a {
+	color: #696969;
+}
 
+.spruce {
+  border: 8px grey dashed;
+  margin-top: 40px;
+  padding: 20px;
+}
 
+.button:hover {
+	color: white;
+	
+}
